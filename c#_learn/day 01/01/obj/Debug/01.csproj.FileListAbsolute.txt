@@ -1,0 +1,7 @@
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\bin\Debug\01.exe.config
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\bin\Debug\01.exe
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\bin\Debug\01.pdb
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\obj\Debug\01.csproj.AssemblyReference.cache
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\obj\Debug\01.csproj.CoreCompileInputs.cache
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\obj\Debug\01.exe
+C:\Users\LeJingS\Desktop\gitea\c#_learn\day 01\01\obj\Debug\01.pdb

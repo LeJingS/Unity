@@ -1,0 +1,7 @@
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\bin\Debug\迭代器.exe.config
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\bin\Debug\迭代器.exe
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\bin\Debug\迭代器.pdb
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\obj\Debug\迭代器.csproj.AssemblyReference.cache
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\obj\Debug\迭代器.csproj.CoreCompileInputs.cache
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\obj\Debug\迭代器.exe
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\迭代器\obj\Debug\迭代器.pdb

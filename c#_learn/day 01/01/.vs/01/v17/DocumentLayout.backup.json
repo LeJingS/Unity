@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LeJingS\\Desktop\\gitea\\Unity\\c#_learn\\day 01\\01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED79F3B-F6FE-42A0-BEB5-455CB55A99B1}|..\\\u53CD\u5C04\\\u53CD\u5C04.csproj|c:\\users\\lejings\\desktop\\gitea\\unity\\c#_learn\\day 01\\\u53CD\u5C04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LeJingS\\Desktop\\gitea\\Unity\\c#_learn\\day 01\\\u53CD\u5C04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u53CD\u5C04\\Program.cs",
+              "ToolTip": "C:\\Users\\LeJingS\\Desktop\\gitea\\Unity\\c#_learn\\day 01\\\u53CD\u5C04\\Program.cs",
+              "RelativeToolTip": "..\\\u53CD\u5C04\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:38:54.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

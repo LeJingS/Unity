@@ -1,0 +1,7 @@
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\bin\Debug\多线程.exe.config
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\bin\Debug\多线程.exe
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\bin\Debug\多线程.pdb
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\obj\Debug\多线程.csproj.AssemblyReference.cache
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\obj\Debug\多线程.csproj.CoreCompileInputs.cache
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\obj\Debug\多线程.exe
+C:\Users\LeJingS\Desktop\gitea\Unity\c#_learn\day 01\多线程\obj\Debug\多线程.pdb
